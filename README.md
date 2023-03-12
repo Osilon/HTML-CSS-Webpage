@@ -1,2 +1,2 @@
-A simple CSS + HTML web layout.
+A simple CSS + HTML web layout. <br />
 #TheOdinProject
