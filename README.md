@@ -1,2 +1,2 @@
 A simple CSS + HTML web layout. <br />
-#TheOdinProject
+You can see the project here: https://osilon.github.io/HTML-CSS-Webpage/
